@@ -1,3 +1,5 @@
+package org.group1;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,7 +30,7 @@ public class BibTeXLibrary {
 
     public List<BibTeXObject> searchInLibrary(String searchString) {
         List<BibTeXObject> returnList = new ArrayList<>();
-//        for (org.fastex.BibTeXObject object: bibTeXEntries) {
+//        for (org.fastex.org.group1.BibTeXObject object: bibTeXEntries) {
 //            if (object.getAuthor().contains(searchString)) {
 //                returnList.add(object);
 //            }

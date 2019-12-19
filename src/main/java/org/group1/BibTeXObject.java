@@ -1,3 +1,5 @@
+package org.group1;
+
 import java.io.Serializable;
 import java.util.Collections;
 import java.util.LinkedHashMap;
@@ -34,7 +36,7 @@ public class BibTeXObject implements Serializable {
 
     @Override
     public String toString() {
-        return "org.fastex.BibTeXObject{" +
+        return "org.fastex.org.group1.BibTeXObject{" +
                 "fields=" + fields +
                 ", type='" + type + '\'' +
                 ", key='" + key + '\'' +

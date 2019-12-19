@@ -1,3 +1,5 @@
+package org.group1;
+
 import org.jbibtex.*;
 
 import java.io.*;

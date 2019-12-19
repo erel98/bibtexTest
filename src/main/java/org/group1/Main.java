@@ -1,7 +1,8 @@
+package org.group1;
+
 import org.jbibtex.*;
 
 import java.io.*;
-import java.util.*;
 
 public class Main {
 
