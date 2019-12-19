@@ -37,5 +37,8 @@ public class Main {
         newLibrary.addToLibrary(newTestEntry);
 
         BibTeXUtil.format(newLibrary, dir);
+
+
+        System.out.println("with regards");
     }
 }
